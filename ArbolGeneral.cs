@@ -122,11 +122,11 @@ namespace actividad_5_complejidad
 					
 			
 			}
-			for(int i=0;i<lista1.Count;i++){
+			//for(int i=0;i<lista1.Count;i++){
+			//	
+			//	Console.WriteLine(lista1[i]);
 				
-				Console.WriteLine(lista1[i]);
-				
-			}
+			//}
 		}	
 		
 		public void porNiveles(){
